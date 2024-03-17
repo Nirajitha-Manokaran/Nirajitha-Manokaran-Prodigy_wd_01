@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name - Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Your Name</h1>
+            <img src="profile-photo.jpg" alt="Profile Photo">
+            <p>Web Developer</p>
+        </div>
+    </header>
+    
+    <section id="about" class="section">
+        <div class="container">
+            <h2>About Me</h2>
+            <p>Insert your detailed background, education, and professional experience here.</p>
+        </div>
+    </section>
+    
+    <section id="skills" class="section">
+        <div class="container">
+            <h2>Skills</h2>
+            <ul>
+                <li>HTML</li>
+                <li>CSS</li>
+                <li>JavaScript</li>
+                <li>Responsive Design</li>
+                <li>Version Control (Git)</li>
+                <li>Frontend Frameworks (e.g., React, Vue.js)</li>
+                <li>Backend Development (e.g., Node.js, Flask)</li>
+                <li>Database Management (e.g., SQL, MongoDB)</li>
+                <!-- Add more skills as needed -->
+            </ul>
+        </div>
+    </section>
+    
+    <section id="projects" class="section">
+        <div class="container">
+            <h2>Projects</h2>
+            <!-- Add your projects with descriptions and links here -->
+            <div class="project">
+                <h3>Project Name 1</h3>
+                <p>Description of the project.</p>
+                <a href="#">View Project</a>
+            </div>
+            <div class="project">
+                <h3>Project Name 2</h3>
+                <p>Description of the project.</p>
+                <a href="#">View Project</a>
+            </div>
+            <!-- Add more projects as needed -->
+        </div>
+    </section>
+
+    <!-- Add more sections as needed, such as "Contact" section -->
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 Your Name. All rights reserved.</p>
+        </div>
+    </footer>
+</body>
+</html>
